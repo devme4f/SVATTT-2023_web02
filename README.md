@@ -15,4 +15,4 @@ cmd4f: ls
 ![ls](images/ls.png)
 
 
-**Blog**: https://hackmd.io/@devme4f/rypHqTzPT
+**Blog**: [https://devme4f.github.io/posts/2023/svattt-2023_new-waf-deser/](https://devme4f.github.io/posts/2023/svattt-2023_new-waf-deser/)
